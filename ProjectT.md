@@ -1,5 +1,3 @@
----
-
 # PROJECT T: Next-Gen Financial Data Visualization Engine
 
 **The Future is not written, It is Rendered.**
